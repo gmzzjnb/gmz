@@ -1,1 +1,2 @@
 # gmz
+new day
